@@ -20,7 +20,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 
 # :cd: Install
 
-* Put "<b>Steam AS.exe</b>" in the "<b>Steam.exe</b>" directory.
+* Put "<b>Steam AM.exe</b>" in the "<b>Steam.exe</b>" directory.
 
 <br />
 
