@@ -4,6 +4,7 @@
 
 * It combines "[Steam Account Switcher](https://github.com/kpuc313/Steam-Account-Switcher "Steam Account Switcher")" and "[Steam Account Shortcut Generator](https://github.com/kpuc313/Steam-Account-Shortcut-Generator "Steam Account Shortcut Generator")".
 
+* Menus interact mostly with numbers, so it's easy to use! :)
 <br />
 
 # :copyright: Copyright
