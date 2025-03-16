@@ -26,10 +26,10 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 <br />
 
 # :milky_way: Preview
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/Preview/Preview%2001.png)
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/Preview/Preview%2002.png)
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/Preview/Preview%2003.png)
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/Preview/Preview%2004.png)
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/Preview/Preview%2005.png)
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/Preview/Preview%2006.png)
-![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/Preview/Preview%2007.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/preview/preview_01.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/preview/preview_02.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/preview/preview_03.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/preview/preview_04.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/preview/preview_05.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/preview/preview_06.png)
+![alt text](https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/preview/preview_07.png)
