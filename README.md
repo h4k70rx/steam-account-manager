@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/icon.ico" width="35px" height="35px"> Steam Account Manager v1.0
+# <img src="https://raw.githubusercontent.com/kpuc313/Steam-Account-Manager/master/icon.ico" width="35px" height="35px"> Steam Account Manager v2025.03.16
 
 * This application allows you to manage multiple steam accounts.
 
