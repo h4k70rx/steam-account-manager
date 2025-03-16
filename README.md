@@ -14,7 +14,7 @@ Steam®, Steam® Logo and all related elements are trademarks of and © Valve Co
 <br />
 
 # :arrow_down: Download
-* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Manager/releases/tag/v1.0 "Latest version")</b>
+* <b>[Latest version](https://github.com/kpuc313/Steam-Account-Manager/releases/tag/v2025.03.16 "Latest version")</b>
 * <b>[All versions](https://github.com/kpuc313/Steam-Account-Manager/releases "All versions")</b>
 
 <br />
