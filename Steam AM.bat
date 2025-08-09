@@ -2,9 +2,9 @@
 setlocal EnableExtensions EnableDelayedExpansion
 rem [ SETTINGS ]==========================================================
 set AppName=Steam Account Manager
-set AppAuthor=kpuc313
+set AppAuthor=h4k70rx
 set AppVersion=v2025.03.16
-set AppHomePage=https://github.com/kpuc313
+set AppHomePage=https://github.com/h4k70rx
 set AppDescription=Allows you to manage multiple steam accounts
 set AppCopyright=(C) %AppAuthor%. All Rights Reserved!
 set AppExtName=sam
